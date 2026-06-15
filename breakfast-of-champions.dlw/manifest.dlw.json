@@ -1,0 +1,12 @@
+{
+  "node": "BOC",
+  "name": "Breakfast of Champions",
+  "moniker": "⟦BREAKFAST OF CHAMPIONS:BOC:7b50ba⟧",
+  "carbon": "breakfast-of-champions.carbon.tiff",
+  "silicon": "breakfast-of-champions.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "The book where the author walks on stage, meets his oldest creation, and lets him go. The asterisk is the whole human animal, reduced to one mark.",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
