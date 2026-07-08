@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "The book where the author walks on stage, meets his oldest creation, and lets him go. The asterisk is the whole human animal, reduced to one mark.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 911,
+    "prev": "cecbafc797376dd094581a093a86fc79e9448e244200b7d96af6d4b1338062ab",
+    "link": "a5183e2f568d674c3ea690430eb83f485100a8aad5e5ac99bb9239de730a61a5",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
